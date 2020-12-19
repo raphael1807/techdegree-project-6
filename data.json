@@ -1,0 +1,52 @@
+{
+  "projects": {
+    "title": "JavaScript Flashcards",
+    "cards": [
+      {
+        "id": "1",
+        "project_name": "A Random Quote Generator",
+        "description": "Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.",
+        "technologies": "HTML, CSS and JavaScript",
+        "live_link": "https://raphael1807.github.io/techdegree-project-1/",
+        "github_link": "https://github.com/raphael1807/techdegree-project-1",
+        "image_urls": ["public/img/mainshots/project1-mainshot.jpg","public/img/landscapeimageprojects/project1-landscape1.1.jpg","public/img/landscapeimageprojects/project1-landscape1.2.jpg","public/img/landscapeimageprojects/project1-landscape1.3.jpg"]
+      },
+      {
+        "id": "2",
+        "project_name": "Data Pagination and Filtering",
+        "description": "Display several “pages” of student data that the user can easily navigate and view.",
+        "technologies": "HTML, CSS and JavaScript",
+        "live_link": "https://raphael1807.github.io/techdegree-project-2/",
+        "github_link": "https://github.com/raphael1807/techdegree-project-2",
+        "image_urls": ["public/img/mainshots/project2-mainshot.jpg","public/img/landscapeimageprojects/project2-landscape2.1.jpg","public/img/landscapeimageprojects/project2-landscape2.2.jpg","public/img/landscapeimageprojects/project2-landscape2.3.jpg"]
+      },
+      {
+        "id": "3",
+        "project_name": "Interactive Form",
+        "description": "Full Stack JavaScript developers create forms to collect information from users for nearly every website and application they build. For this project, you’ll use your skills to enhance a form so that it’s engaging, interactive, and easy to use.",
+        "technologies": "HTML, CSS and JavaScript",
+        "live_link": "https://raphael1807.github.io/techdegree-project-3/",
+        "github_link": "https://github.com/raphael1807/techdegree-project-3",
+        "image_urls": ["public/img/mainshots/project3-mainshot.jpg","public/img/landscapeimageprojects/project3-landscape3.1.jpg","public/img/landscapeimageprojects/project3-landscape3.2.jpg","public/img/landscapeimageprojects/project3-landscape3.3.jpg"]
+      },
+      {
+        "id": "4",
+        "project_name": "OOP Game Show App",
+        "description": "This is a  word guessing game: "Phrase Hunter" where I used JavaScript and OOP (Object-Oriented Programming) to select a random, hidden phrase. A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. Can they guess the phrase before they run out of attempts",
+        "technologies": "HTML, CSS and JavaScript",
+        "live_link": "https://raphael1807.github.io/techdegree-project-4/",
+        "github_link": "https://github.com/raphael1807/techdegree-project-4",
+        "image_urls": ["public/img/mainshots/project4-mainshot.jpg","public/img/landscapeimageprojects/project4-landscape4.1.jpg","public/img/landscapeimageprojects/project4-landscape4.2.jpg","public/img/landscapeimageprojects/project3-landscape4.3.jpg"]
+      },
+      {
+        "id": "5",
+        "project_name": "Public API Requests",
+        "description": "This is a project where I created an employee directory by communicating with a third-party API (Application Programming Interface).",
+        "technologies": "HTML, CSS and JavaScript",
+        "live_link": "https://raphael1807.github.io/techdegree-project-5/",
+        "github_link": "https://github.com/raphael1807/techdegree-project-5",
+        "image_urls": ["public/img/mainshots/project5-mainshot.jpg","public/img/landscapeimageprojects/project5-landscape5.1.jpg","public/img/landscapeimageprojects/project5-landscape5.2.jpg","public/img/landscapeimageprojects/project5-landscape5.3.jpg"]
+      }
+    ]
+  }
+}
