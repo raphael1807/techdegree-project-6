@@ -2,9 +2,10 @@
   "name": "static_node_and_express_site-v1",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon bin/www"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,9 @@
   },
   "homepage": "https://github.com/raphael1807/techdegree-project-6#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
+    "nodemon": "^2.0.6",
     "pug": "^3.0.0"
   }
 }
