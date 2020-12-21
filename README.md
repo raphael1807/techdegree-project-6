@@ -2,9 +2,9 @@
 
 css modifications
 
-1. Changing the background-color: #0a0a0a;
+1. Changed the background-color: #0a0a0a;
 
-2. Changing the font of the following:
+2. Changed the font of the following:
    h1,
    h2,
    h3,
